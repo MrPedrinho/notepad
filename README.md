@@ -1,24 +1,16 @@
 # notepad
 
-## Project setup
-```
-npm install
-```
+A simple notepad website. Allows for creation, edition, and deletion of notes.
+The application was made with Vue and Tailwindcss.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This project was made as a challenge from a Discord community.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+You can check the live demo [here](https://)
 
-### Lints and fixes files
-```
-npm run lint
-```
+---
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+If you want to try it on your machine:
+
+1. Clone the project - `git clone https://github.com/MrPedrinho/notepad.git`
+2. Run npm install
+3. Run npm serve
