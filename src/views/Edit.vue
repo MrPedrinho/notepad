@@ -32,7 +32,7 @@
         </div>
 
         <div class="flex flex-row justify-center w-full">
-          <button type="submit" class="mr-auto border border-solid px-10 py-2 mb-5 rounded-full border-green-500 bg-green-500 text-white transition duration-300 hover:bg-white hover:text-green-500">Create</button>
+          <button type="submit" class="mr-auto border border-solid px-10 py-2 mb-5 rounded-full border-green-500 bg-green-500 text-white transition duration-300 hover:bg-white hover:text-green-500">Edit</button>
           <router-link :to="`/note/${note.id}`">
             <button type="button" class="border border-solid px-10 py-2 mb-5 rounded-full border-red-500 bg-red-500 text-white transition duration-300 hover:bg-white hover:text-red-500">Cancel</button>
           </router-link>
