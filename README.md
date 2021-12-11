@@ -5,7 +5,7 @@ The application was made with Vue and Tailwindcss.
 
 This project was made as a challenge from a Discord community.
 
-You can check the live demo [here](https://)
+You can check the live demo [here](https://hopeful-montalcini-05b972.netlify.app/#/)
 
 ---
 
